@@ -1,0 +1,15 @@
+{
+  "name": "alfred-workflow-node",
+  "version": "1.0.0",
+  "description": "some useful functions&class for alfred workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wayne221b",
+  "email": "yammywei@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "xmlbuilder": "^8.2.2"
+  }
+}
