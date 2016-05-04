@@ -10,6 +10,7 @@
   "email": "yammywei@gmail.com",
   "license": "MIT",
   "dependencies": {
+    "cheerio": "^0.20.0",
     "request": "^2.72.0",
     "xmlbuilder": "^8.2.2"
   }
