@@ -1,6 +1,6 @@
 {
   "name": "node-alfred-workflow",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "some useful functions & class for alfred workflow",
   "main": "index.js",
   "scripts": {
